@@ -1,4 +1,4 @@
 # New-Year Countdown Timer
-Created a simple timer that countdowns to New Year 2022 using javascript.
+Developed a timer that countdowns to New Year 2022 using javascript.
 
-![image](https://user-images.githubusercontent.com/86670343/134075236-8d5effba-30ea-4d2f-bc23-7c02561e6b83.png)
+![image](https://user-images.githubusercontent.com/86670343/134135260-64ae4a79-c10e-4017-b2de-12f423cc85eb.png)
